@@ -1,0 +1,132 @@
+body{
+	
+}
+
+.wrap{
+
+	width: 980px;
+	height: auto;
+	margin: 5px auto;
+
+}
+
+.header{
+	width: 974px;
+	height: 124px;
+	margin: 3px 2px 3px 2px;
+
+}
+
+.container{
+	background-color: #e7efd1;
+	width: 974px;
+	height: auto;
+	margin: 3px 2px 3px 2px;
+
+}
+
+.footer{
+	width: 974px;
+	height: 20px;
+	margin: 3px 2px 3px 2px;
+	text-align: center;
+}
+
+.meio{
+	background-color: #FFFFFF;
+	margin: 20px 10px 10px 20px;
+	width: 660px;
+	height: auto;
+	border: 1px solid;
+	float: left;
+	border: 2px solid green;
+}
+
+.sidebar{
+	text-align: center;
+	margin: 20px 20px 10px 10px;
+	width: 210px;
+	height: 370px;
+	border: 1px solid;
+	float: right;
+	border: 2px solid green;
+}
+
+.imagem{
+	width: 700px;
+	height: 700px;
+	margin: 100px 10px 20px 10px;
+	border: 2px solid;
+}
+
+#coracao{
+	width: 50px;
+	height: 50px;
+}
+
+.hearts{
+	width: 500px;
+	height: 52px;
+	align: right;
+	margin: 10px 0px 10px 460px;
+}
+
+.formulario{
+	width: 600px;
+	height: 408px;
+	margin: 20px 20px 20px 20px;
+}
+.img{
+	width: 400px;
+	height: 400px;
+	margin-left: 100px;
+}
+
+.imgMiopia{
+	width: 636px;
+	height: 400px;
+	margin: 10px 10px 10px 10px;
+}
+
+.imgRosto{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 10px;
+	margin-left: 30%;
+}
+
+.imgFrutas{
+	width: 250px;
+	height: 250px;
+	margin: 10px 10px 10px 80px;
+}
+
+.imgSnellen200{
+	width: 335px;
+	height: 335px;
+	margin-left: 28%;
+}
+
+.imgSnellen100{
+	width: 167px;
+	height: 167px;
+	margin-left: 38%;
+}
+
+.imgSnellen60{
+	width: 100px;
+	height: 100px;
+	margin-left: 42%;
+}
+
+.imgSnellen40{
+	width: 67px;
+	height: 67px;
+	margin-left: 44%;
+}
+
+.imgSnellen20{
+	width: 34px;
+	height: 34px;
+	margin-left: 46%;
+}
